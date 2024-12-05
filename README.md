@@ -14,3 +14,9 @@ Convolution layer with class condition
 ![image](https://github.com/user-attachments/assets/56a750ba-9346-4069-8603-a72920e7eeaf)
 
 Generated Sketches
+
+# Evalutation
+
+![image](https://github.com/user-attachments/assets/18b56e44-5380-4e36-81af-1a38f88064e6)
+
+FID Score
